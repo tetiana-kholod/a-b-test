@@ -7,13 +7,15 @@ Goal: Evaluate how a proposed change impacts user behavior and key business metr
 
 Dataset: 350K user sessions (anonymized).
 
-🔍 Steps
+Steps  
+
 Data cleaning and preprocessing
 Exploratory analysis
 Statistical significance test
 Visualization of results
 
-📈 Dashboard
+Dashboard  
+
 View Tableau Dashboard
 
 
